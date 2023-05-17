@@ -1,0 +1,93 @@
+#nvbar {
+	height: 0px;
+}
+
+#so {
+	position: absolute;
+	right: 0px;
+}
+
+#profiel {
+	position:absolute;
+	right: 100px;
+	color: gray;
+	scale: 2;
+	top: 4px;
+}
+
+#name {
+	position:absolute;
+	right: 150px;
+}
+
+#home {
+	position: absolute;
+	left: 200px;
+}
+
+#prof {
+	position: absolute;
+	left: 200px;
+}
+
+#random {
+	margin-top: 100px;
+}
+
+
+#title1 {
+	font-size: 100px;
+	text-align: center;
+}
+
+#current {
+	font-size: 100px;
+	text-align: center;
+}
+
+#stats {
+	font-size: 40px;
+	text-align: center;
+}
+
+#paper {
+	font-size: 40px;
+	text-align: center;
+}
+
+#plastic {
+	font-size: 40px;
+	text-align: center;
+}
+
+#metal {
+	font-size: 40px;
+	text-align: center;
+}
+
+#total {
+	font-size: 40px;
+	text-align: center;
+}
+
+#and {
+	font-size: 40px;
+}
+
+#badgetitle {
+	position: absolute;
+	text-align: center;
+	left: 40px;
+}
+
+#border {
+	position: absolute;
+	top: 750px;
+	left: 40px;
+}
+
+#border2 {
+	position: absolute;
+	top: 750px;
+	left: 280px;
+}
